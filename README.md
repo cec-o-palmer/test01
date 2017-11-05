@@ -1,1 +1,1 @@
-First change
+This is a file that explains what the project is. So pretty much Sench and Ceece running shit.
